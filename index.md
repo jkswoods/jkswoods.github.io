@@ -1,4 +1,4 @@
-# Repoositories
+# My GitHub Repoositories
 
 ## [freshservice-php](https://github.com/jkswoods/freshservice-php)
 
